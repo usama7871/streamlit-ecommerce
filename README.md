@@ -1,6 +1,7 @@
 # Galactic E-Commerce Platform 🚀
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Galactic+E-Commerce+Platform)
+![Project Banner](![17400986595618513689378746218315](https://github.com/user-attachments/assets/03376aaa-68be-463a-bac8-0206b9e64cf1)
+)
 
 Welcome to the Galactic E-Commerce Platform, a futuristic online shopping experience built with Streamlit! Explore products across the galaxy with our sleek, space-themed interface.
 
