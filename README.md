@@ -19,8 +19,8 @@ Welcome to the Galactic E-Commerce Platform, a futuristic online shopping experi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/galactic-ecommerce.git
-   cd galactic-ecommerce
+   git clone https://github.com/usama7871/streamlit-ecommerce.git
+   cd streamlit-ecommerce
    ```
 
 2. Install dependencies:
